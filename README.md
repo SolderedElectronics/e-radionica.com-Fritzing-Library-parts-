@@ -4,7 +4,7 @@
 (https://e-radionica.com/productdata/e-radionica.com%201.png)
 
 ## Description and details
-Different makers modules, sensors and products by e-radionica.com designed for use in Fritzing. Just open them in Fritzing and you are good to go! Enjoy. 
+Different makers modules, sensors and products by e-radionica.com designed for use in Fritzing. Just open them in Fritzing and you are good to go. Enjoy! 
 
 ## Repository content
 This repo contains .fzpz files intended for use in Fritzing. All of them were designed by our Design team. 
@@ -32,15 +32,25 @@ Full list of deisgned products:
 - TCS230 color sensor module
 - Tower Pro SG90 servo motor
 - ULN2003A stepper motor driver breakout
+- 4x4 matrix keypad
+- Bluetooth module HC06
+- RFID RC522 module
+- DS3231 RTC module
+- LCD screen 16x2 with IIC adapter soldered
+- Hall effect sensor with LM393 (made by e-r.io)
+- Photoresistor sensor with LM393 (made by e-r.io)
+- Fire detection sensor with LM393 (made by e-r.io)
+- Vibration sensor with LM393 (made by e-r.io)
 
 ## Docs
 - none yet
 
 ##Release info
-- 12.2.16. - initial release of files. 
+- 12.2.2016. - initial release of files
+- 10.9.2017. - addition of 9 files
 
 ## License info
-Those files are open-source. Yay! Please note that you used our Fritzing files when you do. 
+Those files are open-source. Yay! Please make a note that you used our Fritzing files - if possible :) 
 For any tech questions, contact us at techsupport@e-radionica.com
 If you find an Issue, please open one at GitHub. If you can improve our product, fork us.
 
