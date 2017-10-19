@@ -41,6 +41,10 @@ Full list of deisgned products:
 - Photoresistor sensor with LM393 (made by e-r.io)
 - Fire detection sensor with LM393 (made by e-r.io)
 - Vibration sensor with LM393 (made by e-r.io)
+- AS3935 Lightning sensor breakout (made by e-r.io)
+- INA219 current and voltage meter breakout (made by e-r.io)
+- MCP4725 DAC breakout (made by e-r.io)
+- MCP23017 IO Expander board (made by e-r.io)
 
 ## Docs
 - none yet
@@ -48,6 +52,7 @@ Full list of deisgned products:
 ##Release info
 - 12.2.2016. - initial release of files
 - 10.9.2017. - addition of 9 files
+- 19.10.2017. - addition of 4 files
 
 ## License info
 Those files are open-source. Yay! Please make a note that you used our Fritzing files - if possible :) 
