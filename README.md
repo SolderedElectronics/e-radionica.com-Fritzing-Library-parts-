@@ -1,7 +1,6 @@
 # e-radionica.com FRITZING library(parts)
 ## Those parts are designed and provided by Team of e-radionica.com
-![e-radionica.com LOGO]
-(https://e-radionica.com/productdata/e-radionica.com%201.png)
+![e-radionica.com LOGO](https://e-radionica.com/productdata/e-radionica.com%201.png)
 
 ## Description and details
 Different makers modules, sensors and products by e-radionica.com designed for use in Fritzing. Just open them in Fritzing and you are good to go. Enjoy! 
